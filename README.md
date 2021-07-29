@@ -1,1 +1,1 @@
-# Data-cleaning-by-sql
+In this project we will be cleaning data in SQL.
