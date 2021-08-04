@@ -1,1 +1,1 @@
-In this project we will be cleaning data in SQL.
+In this project i will be cleaning data in SQL.
